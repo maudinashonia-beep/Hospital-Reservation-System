@@ -1,4 +1,4 @@
-# hospital reservation system
+# hospital reservation system (PHP & MySQL)
 Web based hospital reservation system
 # Graha Medika - Hospital Reservation System
 
